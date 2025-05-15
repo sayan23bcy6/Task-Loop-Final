@@ -187,3 +187,10 @@ React Hook Form — Flexible form handling
 
 Lucide Icons — Open-source icon library
 
+
+OUR TEAM
+Bhumika(2023BCY0032)
+Sayan Sinha(2023BCY0006)
+Dara Singh(2023BCY0045)
+Chandana P T(2023BCY0019)
+Kaustubh Yashwanth Nikam(2023BCY0058)
